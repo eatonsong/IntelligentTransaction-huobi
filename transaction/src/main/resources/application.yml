@@ -1,0 +1,10 @@
+server:
+  port: 8080
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
+  mapper-locations: classpath*:com/soft/mapper/mapping/*.xml                       # mapper映射文件
+  type-aliases-package: com.soft.po
+
+spring:
+  profiles:
+    active: dev

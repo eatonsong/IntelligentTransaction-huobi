@@ -1,0 +1,10 @@
+/.idea/
+/.iml/
+/logs/
+target/
+transaction/target/
+/transaction/transaction.iml
+/IntelligentTransaction-huobi.iml
+/transaction/logs/
+/transaction/logs/
+/database/database.iml
