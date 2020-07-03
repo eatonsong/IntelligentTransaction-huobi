@@ -3,6 +3,7 @@ IntelligentTransaction-huobi
 
 火币高频交易app
 
+三币种差价算法:
 扫描流程
 for(;;){
     扫描币种
@@ -28,7 +29,7 @@ for(;;){
 3--eos走势要比btc eth靠前 跟eos/btc
 
 
-
+数据分析工具：
 
 Tips 用历史盘去测试程序性能 编写测试类
 引入股票计算工具类
